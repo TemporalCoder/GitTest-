@@ -20,7 +20,7 @@ namespace GitTest_
         private void button1_Click(object sender, EventArgs e)
         {
             //some code
-
+            textBox1.Text = "git test";
         }
     }
 }
